@@ -1,4 +1,5 @@
 # My_irc
-Création d'un mini chat avec des channels de discussion comme Discord.
 
-Utiliser npm start dans serveur/index.js pour lancer le back et npm start dans /client pour lancer le front
+
+Creation of a chat with discussion channels like Discord.
+Use npm start in server/index.js to launch the back and npm start in /client to launch the front
